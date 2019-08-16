@@ -1,0 +1,36 @@
+[15.08.2018 02:03:15]
+Hook Started... Timer started
+
+[15.08.2018 23:12:16]
+Hook Started... Timer started
+
+[15.08.2018 23:12:46]
+Mail was not send! Error code: -1
+
+[15.08.2018 23:13:16]
+Mail was not send! Error code: -1
+
+[15.08.2018 23:21:49]
+Hook Started... Timer started
+
+[15.08.2018 23:22:19]
+Mail was not send! Error code: -1
+
+[15.08.2018 23:25::9]
+Hook Started... Timer started
+
+[15.08.2018 23:27:30]
+Hook Started... Timer started
+
+[15.08.2018 23:30:58]
+Mail was not send! Error code: -1
+
+[15.08.2018 23:32:44]
+Hook Started... Timer started
+
+[15.08.2018 23:58:19]
+Hook Started... Timer started
+
+[15.08.2018 23:59:52]
+<From SendMail> Return Code: 7
+
